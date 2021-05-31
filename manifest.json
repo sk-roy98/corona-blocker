@@ -5,8 +5,10 @@
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
-            "js": ["script.js"],
-            "css": ["styles.css"]
+            "js": ["script.js"]
         }
-    ]
+    ], 
+    "icons": {
+        "48": "covid-19.png"
+    }
 }
