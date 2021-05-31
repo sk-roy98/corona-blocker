@@ -1,7 +1,7 @@
 {
     "manifest_version":2,
-    "name": "Coronavirus Imunity",
-    "version": "0.1.0",
+    "name": "Covid Blocker",
+    "version": "0.2.0",
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
